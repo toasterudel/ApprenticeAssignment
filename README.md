@@ -7,7 +7,7 @@ Open the PexelsSearch.xcodeproj in Xcode. Choose the desired simulator to run on
 
 ## Usage
 
-Once the application has been built and runs, use the search bar on the top to search for images. For example, searching for 'cats' will yield:
+Once the application has been built and runs, use the search bar on the top to search for images. For example, searching for 'cats' will yield:  
 ![](https://i.imgur.com/5lz1Qna.png)
 
 ## Authors
